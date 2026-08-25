@@ -67,3 +67,21 @@ Only if = one direction
 IFF = both directions
 For the md file GitHub workflow, one secrets-scanning option exists.
 Ad
+
+
+### During the Algorithm
+
+A man can be **free** if he still has women left to propose to.
+
+```text
+Free man + women left
+        ↓
+Propose to next choice
+
+The algorithm continues while there is a free man who has not proposed to every woman.
+
+Remember
+
+Free man + someone left → Propose
+
+If a man is free and has already proposed to every woman, he cannot propose anymore.
