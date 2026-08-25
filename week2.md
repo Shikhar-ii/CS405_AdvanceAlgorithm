@@ -21,6 +21,36 @@ Stable Matching
 A stable matching has no blocking pair.
 
 A blocking pair is a man and woman who:
+Think of it like this:
+
+1. IF
+
+If it rains, then the ground is wet.
+
+Rain → Wet
+
+Only one direction.
+
+2. ONLY IF
+
+The ground is wet only if it rains.
+
+Wet → Rain
+
+Still one direction, but the direction is reversed.
+
+3. IF AND ONLY IF (IFF)
+
+The ground is wet if and only if it rains.
+
+Rain ↔ Wet
+
+Both directions.
+
+Easy trick
+A if B → B → A
+A only if B → A → B
+A iff B → A ↔ B
 
 are not matched together, and
 both prefer each other over their current partners.
@@ -28,3 +58,4 @@ Remember
 
 Matching: Everyone has a partner.
 Stable matching: No two people want to switch partners
+
