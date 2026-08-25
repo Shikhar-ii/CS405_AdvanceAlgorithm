@@ -59,3 +59,22 @@ Remember
 Matching: Everyone has a partner.
 Stable matching: No two people want to switch partners
 
+
+During the Algorithm
+
+A man can be free if he has not proposed to all women yet.
+
+So:
+
+Free man + women left to propose to
+        ↓
+Propose to his next choice
+
+The algorithm continues while there is a free man who has not proposed to every woman.
+
+Remember
+
+Free man + someone left → propose.
+
+If a man is free and has already proposed to every woman, the algorithm cannot continue with him.
+
