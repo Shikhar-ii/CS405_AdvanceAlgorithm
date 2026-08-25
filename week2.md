@@ -85,3 +85,16 @@ Remember
 Free man + someone left → Propose
 
 If a man is free and has already proposed to every woman, he cannot propose anymore.
+
+
+Conclusion
+
+No blocking pair can exist.
+
+Therefore, Gale-Shapley always produces a stable matching.
+
+Remember
+m prefers w → m must have proposed to w.
+w rejects m → w has someone she prefers.
+w's partner only gets better.
+Therefore, no blocking pair → stable matching.
