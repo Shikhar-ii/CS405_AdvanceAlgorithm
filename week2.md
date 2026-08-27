@@ -98,3 +98,18 @@ m prefers w → m must have proposed to w.
 w rejects m → w has someone she prefers.
 w's partner only gets better.
 Therefore, no blocking pair → stable matching.
+
+
+Insertion sort
+InsertionSort(A):
+    for i = 1 to length(A) - 1:
+        key = A[i]
+        j = i - 1
+        
+        // Move elements of A[0..i-1] that are greater than key
+        // to one position ahead of their current position
+        while j >= 0 and A[j] > key:
+            A[j + 1] = A[j]
+            j = j - 1
+            
+        A[j + 1] = key
